@@ -1,5 +1,8 @@
 {
   "name": "backbone",
   "version": "1.0.0",
-  "main": "backbone.js"
+  "main": "backbone.js",
+  "dependencies": {
+    "lodash": ">= 1.3.1"
+  }
 }
